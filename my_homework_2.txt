@@ -1,1 +1,13 @@
 test 1/ my_homework_2
+
+git status
+git add
+git commit
+git push
+.gitignore
+git reset
+git pull
+git checkout
+git merge
+git stash
+git cherry-pick
